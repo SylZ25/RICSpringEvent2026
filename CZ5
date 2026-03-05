@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CZ5 剧情 · 长洲笔记</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #fafaf8;
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            line-height: 1.7;
+            color: #1e1e1e;
+            padding: 2rem 1rem;
+        }
+        .article {
+            max-width: 680px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+            padding: 2rem 1.8rem;
+        }
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            margin-bottom: 0.25rem;
+            line-height: 1.3;
+            border-left: 4px solid #aaa28b;
+            padding-left: 1rem;
+        }
+        .subhead {
+            font-size: 1rem;
+            color: #6b6b6b;
+            margin-bottom: 2rem;
+            font-style: italic;
+            padding-left: 1.4rem;
+            border-left: 1px solid #e2e0d8;
+        }
+        p {
+            margin-bottom: 1.4rem;
+            font-size: 1.06rem;
+        }
+        .message {
+            background-color: #f4f2ee;
+            border-radius: 18px 18px 18px 8px;
+            padding: 1rem 1.3rem;
+            margin: 1.5rem 0;
+            font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+            font-size: 0.98rem;
+            border-left: 3px solid #b3aa9b;
+            white-space: pre-wrap;
+            word-break: break-word;
+            color: #232323;
+        }
+        .message strong {
+            font-weight: 600;
+            color: #3d3d3d;
+        }
+        .incoming {
+            background-color: #f4f2ee;
+            border-left-color: #b3aa9b;
+        }
+        .outgoing {
+            background-color: #eae7e2;
+            border-left-color: #b4866b;
+        }
+        .outgoing strong {
+            color: #8b4e3c;
+        }
+        hr {
+            border: none;
+            border-top: 1px dashed #d0cdc5;
+            margin: 2rem 0 1rem;
+        }
+        .footer-note {
+            font-size: 0.85rem;
+            color: #888;
+            text-align: right;
+            margin-top: 2rem;
+            border-top: 1px solid #ecebe7;
+            padding-top: 1rem;
+        }
+        .note-bracket {
+            color: #6b6b6b;
+            font-style: italic;
+            font-size: 0.95rem;
+            margin: 0.5rem 0 1rem;
+        }
+    </style>
+</head>
+<body>
+<div class="article">
+    <h1>CZ5 剧情</h1>
+    <div class="subhead">Take a look at MCode@Guide_Booklet</div>
+
+    <p>三个糯米糍下肚，小锐心满意足地擦了擦嘴角。海风把椰丝的甜味吹散，码头上人来人往，有拖着行李箱的游客，有推着婴儿车的本地阿婆，还有几个举着风车跑来跑去的小孩。</p>
+
+    <p>小锐在岸边找了块平整的石头坐下，掏出手机，准备再看看那个委托人的聊天记录。屏幕亮起来的那一刻——</p>
+
+    <p>神秘的消息又来了。</p>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        后生仔，你还在吗？
+    </div>
+
+    <p>小锐一愣，赶紧打字：</p>
+
+    <div class="message outgoing">
+        <strong>【小锐】</strong><br>
+        在在在！你终于出现了！你到底是谁啊？
+    </div>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        一个打铁的而已。不过，谢谢你愿意帮我。
+    </div>
+
+    <div class="message outgoing">
+        <strong>【小锐】</strong><br>
+        可是锐根本不知道从哪里找起啊。你说的“色梗”长什么样？在哪找？
+    </div>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        （沉默了几秒）……你说得对，我太着急了，什么都没讲清楚。
+    </div>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        色梗是铁的，大概两米，是一根弯曲的棍子……<br>
+        我本来把它们放在一个很安全的地方，和渔网放在一起。可是现在……我记不太清了。只记得能听到海浪的声音，还有礁石。
+    </div>
+
+    <div class="message outgoing">
+        <strong>【小锐】</strong><br>
+        海浪和礁石？那就是在海边咯？
+    </div>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        应该吧……我年轻时常去一个海滩，离以前的医院不远。那里有好多礁石，我打完铁，有时候会把做好的色梗放在礁石上晾着，等潮水退去再收。
+    </div>
+
+    <div class="message outgoing">
+        <strong>【小锐】</strong><br>
+        以前的医院？长洲医院吗？
+    </div>
+
+    <div class="message incoming">
+        <strong>【未知联系人】</strong><br>
+        就是那附近。现在可能变了样吧……我好久没去了。
+    </div>
+
+    <p class="note-bracket">消息又停了。小锐盯着屏幕，心里有点发毛。“好久没去”是什么意思？他不是说自己就在长洲吗？</p>
+
+    <hr>
+    <div class="footer-note">
+        长洲 · 太平清醮前<br>
+        <span style="font-family: monospace;">✻ 待续 CZ6</span>
+    </div>
+</div>
+</body>
+</html>
